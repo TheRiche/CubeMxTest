@@ -1,0 +1,5 @@
+C:/Users/richa/Documents/VScode/CubeMxTest/CMakeFiles/CubeMxTest.dir
+C:/Users/richa/Documents/VScode/CubeMxTest/CMakeFiles/edit_cache.dir
+C:/Users/richa/Documents/VScode/CubeMxTest/CMakeFiles/rebuild_cache.dir
+C:/Users/richa/Documents/VScode/CubeMxTest/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/richa/Documents/VScode/CubeMxTest/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
